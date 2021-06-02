@@ -17,3 +17,9 @@ for i in range(distance):
     if start==0:#Condition to check whether it is possible to take a single banana or not.
         break
 print(start)
+
+
+# input
+# 3000
+# 1000
+# 1000
