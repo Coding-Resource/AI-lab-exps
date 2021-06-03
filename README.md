@@ -10,3 +10,4 @@ Contains all the experiments of artificial intelligence
 ## EXP7 : Unification and Resolution
 ## EXP8 : Knowledge representation
 ## EXP9 : Implementation of uncertain methods for an application
+## EX10: Block world Problem
